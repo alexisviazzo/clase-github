@@ -5,3 +5,9 @@ body{
 h1{
     text-align: center;
 }
+
+.card-section{
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+}
